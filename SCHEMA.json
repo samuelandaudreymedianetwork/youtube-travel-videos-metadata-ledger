@@ -1,0 +1,122 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "YouTube Travel Videos Metadata (Verified Index)",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "is_duplicate_videoId": {
+      "type": [
+        "boolean"
+      ]
+    },
+    "region": {
+      "type": [
+        "string"
+      ]
+    },
+    "region_norm": {
+      "type": [
+        "string"
+      ]
+    },
+    "row_id": {
+      "type": [
+        "integer"
+      ]
+    },
+    "tag1": {
+      "type": [
+        "string"
+      ]
+    },
+    "tag2": {
+      "type": [
+        "string"
+      ]
+    },
+    "tag3": {
+      "type": [
+        "string"
+      ]
+    },
+    "tag4": {
+      "type": [
+        "string"
+      ]
+    },
+    "tag5": {
+      "type": [
+        "string"
+      ]
+    },
+    "tags": {
+      "type": [
+        "string"
+      ]
+    },
+    "tags_list": {
+      "type": [
+        "array"
+      ]
+    },
+    "tags_raw": {
+      "type": [
+        "string"
+      ]
+    },
+    "title": {
+      "type": [
+        "string"
+      ]
+    },
+    "url": {
+      "type": [
+        "string"
+      ]
+    },
+    "videoId": {
+      "type": [
+        "string"
+      ]
+    },
+    "videoId_is_valid": {
+      "type": [
+        "boolean"
+      ]
+    },
+    "videoId_occurrences": {
+      "type": [
+        "integer"
+      ]
+    },
+    "views": {
+      "type": [
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "views_is_missing": {
+      "type": [
+        "boolean"
+      ]
+    },
+    "views_raw": {
+      "type": [
+        "number",
+        "string",
+        "null"
+      ]
+    },
+    "views_snapshot_date": {
+      "type": [
+        "string"
+      ]
+    },
+    "year": {
+      "type": [
+        "integer"
+      ]
+    }
+  }
+}

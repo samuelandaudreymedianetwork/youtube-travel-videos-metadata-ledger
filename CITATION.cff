@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "YouTube Travel Videos Metadata (Verified Index)"
+type: dataset
+authors:
+  - family-names: "Jeffery"
+    given-names: "Samuel"
+    affiliation: "Samuel & Audrey Media Network"
+    email: "nomadicsamuel@gmail.com"
+  - family-names: "Bergner"
+    given-names: "Audrey"
+    affiliation: "Samuel & Audrey Media Network"
+url: "https://huggingface.co/datasets/samuelandaudreymedianetwork/youtube-travel-videos-metadata"
+license: "cc-by-nc-4.0"
+repository-code: "https://huggingface.co/datasets/samuelandaudreymedianetwork/youtube-travel-videos-metadata"
+keywords:
+  - "YouTube"
+  - "travel"
+  - "video metadata"
+  - "bilingual"
+  - "index"
